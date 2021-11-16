@@ -2,4 +2,4 @@
 import './style.css';
 
 // Write Javascript code!
-document.getElementById('app').innerHTML += ' World';
+document.getElementById('app').innerHTML += ' World!';
